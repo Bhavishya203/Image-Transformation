@@ -146,36 +146,36 @@ plt.show()
 ## Output:
 ### i)Image Translation
 
-https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b5-1.jpg
+![output](https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b5-1.jpg)
 
 ### ii) Image Scaling
 
-https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b%205-2.jpg
+![output](https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b%205-2.jpg)
 
 
 ### iii)Image shearing
-https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b5-3.jpg
-https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b5-4.jpg
-https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b5-6.jpg
+![output](https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b5-3.jpg)
+![output](https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b5-4.jpg)
+![output](https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b5-6.jpg)
 
 
 
 ### iv)Image Reflection
 
-https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b5-7.jpg
+![output](https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b5-7.jpg)
 
 
 
 ### v)Image Rotation
 
 
-https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b5-8.jpg
+![output](https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b5-8.jpg)
 
 
 ### vi)Image Cropping
 
 
-https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b5-9.jpg
+![output](https://github.com/Bhavishya203/Image-Transformation/blob/main/dip%20b5-9.jpg)
 
 
 ## Result: 
